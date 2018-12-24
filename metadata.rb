@@ -13,7 +13,7 @@ end
 depends 'git', '>= 5.0.0'
 depends 'github'
 depends 'erlang', '>= 3.0.0'
-depends 'libarchive', '>= 0.7.0'
+depends 'libarchive', '~> 0.7.0'
 
 source_url 'https://github.com/chef-cookbooks/elixir'
 issues_url 'https://github.com/chef-cookbooks/elixir/issues'
